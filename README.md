@@ -103,5 +103,3 @@ Double check install instructions for both
 # Note
   - The stories feature is ready, you can write a cloud scheduler function to auto delete stories
     after 24hrs as cloud functions is not enabled in this project
-*Charly Keleb
-CharlyKeleb** [![Twitter Follow](https://img.shields.io/twitter/follow/Charlykeleb.svg?style=social)](https://twitter.com/Charlykeleb)
